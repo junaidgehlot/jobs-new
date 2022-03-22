@@ -1,7 +1,7 @@
 
-#### Database Connection
+#### Basic jobs api with crud and jwt authentication
 
-Basic jobs api with crud and jwt authentication
+
 
 #### Packages used 
 
